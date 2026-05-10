@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Файлы данных
+data/*.csv
+data/*.xlsx
+*.csv
+*.xlsx
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
